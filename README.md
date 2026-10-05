@@ -15,6 +15,7 @@ This list focuses on **tools you actually use day-to-day** rather than yet-anoth
 
 ## Web utilities
 
+- [@TinyTelegramToolsBot](https://t.me/TinyTelegramToolsBot) - Utility Telegram bot with a Mini App for everyday one-tap tools (notes, timers, converters).
 Free in-browser tools you don't need to install. Most run client-side and never see your credentials.
 
 - **[tgkit.io](https://tgkit.io/)** — toolbox covering the whole stack: ID resolver, username checker + history, chat-id guide, bot token tester, inline keyboard builder, MarkdownV2 escaper, error code reference, QR generator, deep link builder, sticker pack downloader, webhook tester, getUpdates viewer, channel post parser, link preview tester, UTM start-param builder, and a live Telegram status page. All free, no signup.
